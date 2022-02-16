@@ -3,6 +3,7 @@
 #### Description:
 Software implementation of Shapify.      
 Shapify is an algorithm for predicting the pseudoknotted secondary structures of RNA using relaxed Hierarchical Folding. 
+[![DOI](https://zenodo.org/badge/459850807.svg)](https://zenodo.org/badge/latestdoi/459850807)
 
 Shapify is based on Iterative HFold, see below paper for details.
 Paper: https://www.researchgate.net/publication/262810273_A_fast_and_robust_iterative_algorithm_for_prediction_of_RNA_pseudoknotted_secondary_structures
